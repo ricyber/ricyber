@@ -41,19 +41,53 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo backend, análisis
 
 ---
 
-## ⚡ Habilidades
+### 🚀 Habilidades / Herramientas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+
+<!-- 1 Nmap -->
+<img src="https://img.shields.io/badge/Nmap-0082D5?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+
+<!-- 2 Burp Suite -->
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+
+<!-- 3 Metasploit -->
+<img src="https://img.shields.io/badge/Metasploit-5C2D91?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+
+<!-- 4 Wireshark -->
+<img src="https://img.shields.io/badge/Wireshark-00A3E0?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+
+<!-- 5 Kali Linux -->
+<img src="https://img.shields.io/badge/Kali%20Linux-5570A1?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+
+<!-- 6 Parrot OS -->
+<img src="https://img.shields.io/badge/Parrot%20OS-2EA44F?style=for-the-badge&logo=parrot&logoColor=white" alt="Parrot OS" />
+
+<!-- 7 Go -->
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+
+<!-- 8 Nessus -->
+<img src="https://img.shields.io/badge/Nessus-C62828?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" />
+
+<!-- 9 OWASP ZAP -->
+<img src="https://img.shields.io/badge/OWASP%20ZAP-6C8EBF?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+
+<!-- 10 JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<!-- 11 Fortinet -->
+<img src="https://img.shields.io/badge/Fortinet-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+
+<!-- 12 PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<!-- 13 Docker -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+<!-- 14 Python -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
 </p>
-
 
 ---
 
