@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portafolio-FF7139?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://github.com/tuusuario">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
