@@ -25,7 +25,7 @@
 >> Ricardo Salazar  
 
 └─$ cat skills.txt
->> 🐧 Linux | ⚙️ Go | 🐍 Python | 🛡️ Pentesting | 🗄️ Databases
+>> Linux | CyberSecurity | Go | Pentesting | IT | Databases
 </pre>
 
 ---
@@ -40,9 +40,9 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo backend, análisis
 ## ⚡ Habilidades
 - 🐧 **Linux / Kali Linux**
 - 🛡️ **Pentesting & Reconocimiento**
-- ⚙️ **Go, Python, C#**
+- ⚙️ **Go, Python, javaScript**
 - 🗄️ **MySQL, PostgreSQL, MongoDB**
-- 🌐 **Servidores & Seguridad en Redes**
+- 🌐 **Servidores & DataBases**
 
 ---
 
