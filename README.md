@@ -3,6 +3,17 @@
 <p align="center">
   <i>Ingeniero en Ciberseguridad | Informatico</i>
 </p>
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tuportafolio.com">
+    <img src="https://img.shields.io/badge/Portafolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tuusuario">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -45,16 +56,3 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo backend, análisis
 | 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | Sistema Web | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
 
 ---
-
-## 📫 Contacto
-<p align="center">
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
