@@ -3,6 +3,7 @@
 <p align="center">
   <i>Ingeniero en Ciberseguridad | Informatico</i>
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,7 +20,7 @@
 
 ## 💀 Terminal Hacker
 <pre style="background:#000000; color:#33ff33; padding:15px; border-radius:10px;">
-┌──(root㉿kali)-[~/github]
+┌──(rii㉿cyber)-[~/github]
 └─$ whoami
 >> Ricardo Salazar  
 
