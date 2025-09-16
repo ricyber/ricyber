@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_x40lhdx40lhdx401l.png" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">🛡️Hola, soy Ricardo Salazar</h1>
 
 <p align="center">
