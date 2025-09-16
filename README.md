@@ -25,7 +25,7 @@
 >> Ricardo Salazar  
 
 └─$ cat skills.txt
->> Linux | CyberSecurity | Go | Pentesting | IT | Databases
+>> Linux | CyberSecurity | IT | Go | Databases
 </pre>
 
 ---
