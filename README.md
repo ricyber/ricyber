@@ -94,11 +94,11 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo backend, análisis
 ## 📂 Proyectos
  Algunos de mis proyectos
 
-| Proyecto | Descripción | Categoría | Ver Proyecto |
-|----------|-------------|-----------|--------------|
-| 🔎 ReconGo | Herramienta profesional de reconocimiento en Go | Herramienta | <a href="https://ricyber.github.io/Cyber-Earth/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| ⚡ TCP Stealth Scan | Escáner de puertos sigiloso y eficiente | Escáner | <a href="https://github.com/tuusuario/TCP-Stealth-Scan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | Sistema Web | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | Sistema Web | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| Proyecto | Descripción |Ver Proyecto |
+|----------|-------------|-------------|
+| Cyber-Earth |Visualizacion de la tierra 3D para explorar datos de los tiempos en ciberseguridad | <a href="https://ricyber.github.io/Cyber-Earth/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| ⚡ TCP Stealth Scan | Escáner de puertos sigiloso y eficiente | <a href="https://github.com/tuusuario/TCP-Stealth-Scan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
 
 ---
