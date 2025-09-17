@@ -99,6 +99,6 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo backend, análisis
 | Cyber-Earth |Visualizacion de la tierra 3D para explorar datos de los tiempos en ciberseguridad | <a href="https://ricyber.github.io/Cyber-Earth/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
 | Netword-Recon-Ri&Cyber | Dashboard en CLI para descubrir hosts, puertos y servicios de una red | <a href="https://github.com/ricyber/Netword-Recon-Ri-Cyber"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
 | 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| 📊 Sistema Escolar | Plataforma de calificaciones con C# y SQL Server | <a href="https://github.com/tuusuario/School-System"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| Password Audit Tool | Una herramienta en CLI que evalúa la seguridad y complejidad de contraseñas | <a href="https://github.com/ricyber/Password-Audit-ricyber"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
 
 ---
