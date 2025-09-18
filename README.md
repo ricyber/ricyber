@@ -34,9 +34,7 @@
 ---
 
 ## 👨‍💻 About me
-Soy ingeniero en ciberseguridad e informática, apasionado por la tecnología y el desarrollo de soluciones seguras y eficientes. Me enfoco en el aprendizaje constante y en aplicar mis conocimientos en proyectos que integren seguridad, programación y administración de sistemas.
-
-Actualmente estoy fortaleciendo mis habilidades en desarrollo backend, análisis de datos y ciberseguridad ofensiva, con el objetivo de crear herramientas y soluciones confiables que aporten valor en entornos profesionales.
+Ingeniero en ciberseguridad e informatico, explorando y creando soluciones seguras en el mundo digital. Siempre aprendiendo, siempre construyendo.
 
 ---
 
