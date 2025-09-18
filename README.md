@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="is-their-mind.png" alt="banner" width="50%" />
+  <img src="is-their-mind.png" alt="banner" height="200" />
 </p>
 
 <h1 align="center">🛡️Hola, soy Ricardo Salazar</h1>
