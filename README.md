@@ -22,7 +22,6 @@
 
 ---
 
-## 💀 Terminal Hacker
 <pre style="background:#000000; color:#33ff33; padding:15px; border-radius:10px;">
 ┌──(rii㉿cyber)-[~/github]
 └─$ whoami
