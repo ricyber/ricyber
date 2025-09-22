@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricardo-salazar-mora-543400264/">
+  <a href="www.linkedin.com/in/ricardo-salazar-mora-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://ricyber.github.io/">
